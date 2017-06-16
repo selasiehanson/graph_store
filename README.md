@@ -6,4 +6,4 @@ Simple GraphQl based api to simulate an online order api
 + Order
 + Product
 + ProductCategory
-+ Address
++ Address (Users STI has customer's shipping and billing address)
